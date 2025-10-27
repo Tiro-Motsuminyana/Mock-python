@@ -12,7 +12,7 @@ def add_numbers(a, b):
     Accepts two numbers and returns their sum.
     """
     # Your code here
-    pass
+    return a + b
 
 
 # Exercise 2: FizzBuzz
